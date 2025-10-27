@@ -6,6 +6,7 @@ Atividades práticas da disciplina de Projeto Integrador do curso de Análise e 
 Este repositório contém exercícios de programação em Java desenvolvidos em sala de aula, focados em estruturas condicionais e entrada de dados.
 
 🚀 Programas
+
 Classificador de Triângulos
 Arquivo: project.java
 Recebe as medidas de três lados e classifica o triângulo como equilátero, isósceles ou escaleno.
