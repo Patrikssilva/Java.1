@@ -13,4 +13,5 @@ Recebe as medidas de três lados e classifica o triângulo como equilátero, is�
 
 Sistema de Avaliação de Alunos
 Arquivo: project2.java
+
 Calcula a média do aluno baseado em duas notas e quantidade de faltas, determinando o status final (aprovado, recuperação, exame ou reprovado).
